@@ -1,4 +1,4 @@
-# Notes on Vanilla Javascript Essentials
+# Vanilla Javascript Essentials
 
 This Repository is a collection of Vanilla Javascript Essentials.
 I followed an awesome youtube tutorial series called "[Dream Coding By Ellie](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w)".
